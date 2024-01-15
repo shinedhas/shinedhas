@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shinedhas
+- 👋 Hi, I’m Shine Peter
 - 👀 I’m interested in web developing
-- 🌱 I’m currently need to learn js, react js
+- 🌱 I currently need to learn js, react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
